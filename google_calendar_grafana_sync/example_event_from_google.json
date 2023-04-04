@@ -1,0 +1,32 @@
+{
+    "kind": "calendar#event",
+    "etag": "\"3359152960284000\"",
+    "id": "7adfusbb7aasdfgikp1c3",
+    "status": "confirmed",
+    "htmlLink": "https://www.google.com/calendar/event?eid=N2FadfYmasdfdwZWNpa3AxYzMasdfLnJvc2l2QG0",
+    "created": "2023-03-23T13:01:20.000Z",
+    "updated": "2023-03-23T13:01:20.142Z",
+    "summary": "Test event",
+    "creator": {
+        "email": "example@gmail.com",
+        "self": true
+    },
+    "organizer": {
+        "email": "example@gmail.com",
+        "self": true
+    },
+    "start": {
+        "dateTime": "2023-03-24T11:30:00+01:00",
+        "timeZone": "Europe/Warsaw"
+    },
+    "end": {
+        "dateTime": "2023-03-24T12:30:00+01:00",
+        "timeZone": "Europe/Warsaw"
+    },
+    "iCalUID": "7adfusbb7k1p@google.com",
+    "sequence": 0,
+    "reminders": {
+        "useDefault": true
+    },
+    "eventType": "default"
+}

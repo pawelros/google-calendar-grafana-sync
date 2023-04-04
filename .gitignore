@@ -1,0 +1,6 @@
+*.pyc
+.venv/
+.envrc
+token.json
+credentials.json
+.vscode/

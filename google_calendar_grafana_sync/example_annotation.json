@@ -1,0 +1,26 @@
+[
+    {
+        "id": 483,
+        "alertId": 0,
+        "alertName": "",
+        "dashboardId": 0,
+        "panelId": 0,
+        "userId": 0,
+        "newState": "",
+        "prevState": "",
+        "created": 1679576987712,
+        "updated": 1679577216408,
+        "time": 1679576987712,
+        "timeEnd": 1679577216335,
+        "text": "\u003ca href=\"https://github.com/pawelros/google-calendar-grafana-sync/actions/runs/4500836156\"\u003esync service deployment\u003c/a\u003e",
+        "tags": [
+            "deployment",
+            "environment:staging",
+            "service:google-calendar-grafana-sync"
+        ],
+        "login": "",
+        "email": "",
+        "avatarUrl": "",
+        "data": {}
+    }
+]
